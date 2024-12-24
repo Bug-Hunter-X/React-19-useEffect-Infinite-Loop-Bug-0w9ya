@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in React 19 applications involving the useEffect hook and an infinite loop caused by missing dependencies.  The `bug.js` file shows the erroneous code, while `bugSolution.js` provides the corrected version.  This example highlights the importance of specifying dependencies in useEffect to avoid performance issues and unexpected behavior.
